@@ -39,7 +39,10 @@
     transform: translate(0px, 0px);
   }
 }
-
+#emailPopup {
+  color: white !important;
+  font-size: 14px;
+}
 /* glow pulse */
 @keyframes pulseGlow {
   0%,
